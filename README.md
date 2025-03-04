@@ -40,7 +40,7 @@ Imported Adidas logos & sneaker images for branding.
 
 Saved as a PNG image and imported into Power BI as a canvas background.
 
-![Powerpoint](PowerPoint%20Design.pptx)
+![Powerpoint](Powerpoint%20image.png)
 
 📂 Dataset Used
 
