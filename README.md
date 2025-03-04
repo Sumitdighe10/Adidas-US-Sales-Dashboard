@@ -40,6 +40,8 @@ Imported Adidas logos & sneaker images for branding.
 
 Saved as a PNG image and imported into Power BI as a canvas background.
 
+![Powerpoint](PowerPoint%20Design.pptx)
+
 📂 Dataset Used
 
 The dataset includes key information on sales, profit, regional distribution, and retailer performance. Data was cleaned and structured to ensure accuracy in calculations and visualizations.
