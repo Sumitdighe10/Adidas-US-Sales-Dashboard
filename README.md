@@ -112,7 +112,7 @@ Summarizes total sales and profits for each retailer.
 Allows for easy comparison of profitability across multiple retailers.
 Provides key insights into which retailers are most profitable.
 
-![Dax](Dynamic%20Summary.png)
+![Dax](https://github.com/Sumitdighe10/Adidas-US-Sales-Dashboard/blob/main/DAX%20formula%20for%20Dynamic%20Summary.png)
 
 📊 Power BI Visualizations & Insights
 📌 Key Visualizations Used:
@@ -137,7 +137,7 @@ Shows areas with highest and lowest demand.
 Displays sales volume trends across different regions.
 Helps track which regions sell the most products.
 
-5️⃣ Operating Profit vs. Total Sales (Scatter Plot)
+5️⃣ Operating Profit vs. Total Sales vs Retailer ID (Scatter Plot)
 
 Plots total sales against operating profit.
 Helps analyze the correlation between sales & profit.
