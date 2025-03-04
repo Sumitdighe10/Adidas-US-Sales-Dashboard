@@ -111,7 +111,8 @@ VAR RetailerComparison =
 Summarizes total sales and profits for each retailer.
 Allows for easy comparison of profitability across multiple retailers.
 Provides key insights into which retailers are most profitable.
-![Dax](Dynamic%20Summary.png)
+
+![Dashboard](Dynamic%20Summary.png)
 
 📊 Power BI Visualizations & Insights
 📌 Key Visualizations Used:
@@ -148,6 +149,7 @@ Helps track growth and trends over time.
 
 📊 Live Power BI Dashboard
 👉 Access the interactive Power BI Dashboard here:
+
 https://app.powerbi.com/groups/me/reports/1b2ad26b-4da6-4059-89c3-3e798e6a078a/01a50f350a01576953ee?experience=power-bi
 
 
