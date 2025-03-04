@@ -48,4 +48,16 @@ The dataset includes key information on sales, profit, regional distribution, an
 
 📝 DAX Measures & Calculations
 
-📄 DAX Code for KPI Metrics
+📂 Key Performance Indicators (KPIs)
+
+🔷 1️⃣ Total Sales, Profit & Profit Margin Calculation
+
+Calculates Total Revenue, Operating Profit, and Profit Margin percentage.
+
+--
+VAR TotalSales = SUM('Sales Data'[Total Sales])
+VAR Profit = SUM('Sales Data'[Operating Profit])
+VAR ProfitMargin = DIVIDE(Profit, TotalSales, 0)
+--
+
+
