@@ -112,7 +112,7 @@ Summarizes total sales and profits for each retailer.
 Allows for easy comparison of profitability across multiple retailers.
 Provides key insights into which retailers are most profitable.
 
-![Dashboard](Dynamic%20Summary.png)
+![Dax](Dynamic%20Summary.png)
 
 📊 Power BI Visualizations & Insights
 📌 Key Visualizations Used:
@@ -146,6 +146,8 @@ Helps analyze the correlation between sales & profit.
 
 Compares total sales for different years.
 Helps track growth and trends over time.
+
+
 
 📊 Live Power BI Dashboard
 👉 Access the interactive Power BI Dashboard here:
