@@ -55,9 +55,9 @@ The dataset includes key information on sales, profit, regional distribution, an
 Calculates Total Revenue, Operating Profit, and Profit Margin percentage.
 
 --
-VAR TotalSales = SUM('Sales Data'[Total Sales])
-VAR Profit = SUM('Sales Data'[Operating Profit])
-VAR ProfitMargin = DIVIDE(Profit, TotalSales, 0)
+= VAR TotalSales = SUM('Sales Data'[Total Sales])
+= VAR Profit = SUM('Sales Data'[Operating Profit])
+= VAR ProfitMargin = DIVIDE(Profit, TotalSales, 0)
 
 --
 
